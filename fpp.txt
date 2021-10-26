@@ -1,0 +1,11 @@
+input 101
+input 102
+add 101 102
+set 10 103
+cmp 103 101
+jmp 9
+add 103 101
+output 103
+jmp 7
+sub 101 103
+output 101
